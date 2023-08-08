@@ -1,0 +1,21 @@
+{
+    "posts" : [
+        {
+            "title": "Welcome to the blog",
+            "body":
+            "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum eveniet, commodi dolor atque ut modi blanditiis in quas ipsa voluptatibus odio qui dolorem expedita ipsum. Quibusdam eius esse assumenda porro. commodi dolor atque ut modi blanditiis in quas ipsa voluptatibus odio qui dolorem expedita ipsum. Quibusdam eius esse assumenda porro.",
+            "id": 1,
+            "tags" : [
+                "news","coding", "Webdev"
+            ]
+        },
+          {
+            "title": "Top 5 css tips", 
+            "body":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum eveniet, commodi dolor atque ut modi blanditiis in quas ipsa voluptatibus odio qui dolorem expedita ipsum. Quibusdam eius esse assumenda porro. commodi dolor atque ut modi blanditiis in quas ipsa voluptatibus odio qui dolorem expedita ipsum. Quibusdam eius esse assumenda porro.", 
+            "id": 2,
+            "tags" : [
+                "css","coding", "Webdev"
+            ]
+        }
+    ]
+}
